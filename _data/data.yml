@@ -45,11 +45,11 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: FPS games
+        - item: Fitness
 
         - item: Hiking & Camping
 
-        - item: Fitness
+        - item: FPS games
 
         - item: JDM sports cars
 
@@ -64,7 +64,7 @@ career-profile:
       exploring various machine learning techniques and the possibility of using Augmented Reality (AR) in the context 
       of networked robot systems. 
 
-      I enjoy the process of problem solving and building my own systems. I am also a good piano player. 
+      I enjoy the process of problem solving and building my own systems. I am also a proficient piano player. 
       Currently, I am learning the bass guitar.
 
       
@@ -129,7 +129,7 @@ experiences:
             - Web Chair (2023 ACM SenSys/BuildSys Workshop on Data)
 
       - role: Teaching Assistant
-        time: 2014 - Present
+        time: Ongoing
         details: |
           I have been TAing various Grad and UG level courses throughout my academic journey:
             - CSCI 575 Advanced Machine Learning (Mines)
