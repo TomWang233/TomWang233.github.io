@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -46,13 +46,15 @@ sidebar:
       title: Interests
       info:
         - item: FPS games
-          link:
-
-        - item: JDM sports cars
-          link:
 
         - item: Hiking & Camping
-          link:
+
+        - item: Fitness
+
+        - item: JDM sports cars
+
+
+
 
 career-profile:
     title: About Me
@@ -112,70 +114,53 @@ publications:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Conference & Journal Reviewer
+        time: Ongoing
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          It is my honor to be selected to review submissions for various conferences and journals: 
+            - 2023 IEEE PerCom Workshop on Pervasive Computing for Vehicular Systems (PerVehicle)
+            - 2023 ACM IMWUT
+
+      - role: Conference & Workshop Organizing Committee
+        time: Ongoing
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          It is my honor to be selected to participate in organizing various conferences and workshops:
+            - Publicity and Social Media Chair (2024 IEEE PerCom)
+            - Web Chair (2023 ACM SenSys/BuildSys Workshop on Data)
+
+      - role: Teaching Assistant
+        time: 2014 - Present
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I have been TAing various Grad and UG level courses throughout my academic journey:
+            - CSCI 575 Advanced Machine Learning (Mines)
+            - CSCI 470 Intro to Machine Learning (Mines)
+            - ESE 447 Robotics Laboratory (WUSTL)
+            - ESE 446 Robotics: Dynamics & Control (WUSTL)
+            - PHYS 41 General Physics with Lab (Pomona College)
+
+      - role: Internship Experience
+        time: Ongoing
+        details: |
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Besides my dissertation research, I have also completed some side projects based on my own interests: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: 
+        tagline: ""
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 
+        tagline: ""
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 
+        tagline: ""
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: 
+        tagline: ""
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 
+        tagline: ""
 
 skills:
     title: Skills &amp; Proficiency
