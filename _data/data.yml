@@ -45,7 +45,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Fitness
+        - item: Body Building / Gym Workout
 
         - item: Hiking & Camping
 
@@ -61,8 +61,7 @@ career-profile:
     summary: |
       I am currently a Ph.D. student in Robotics at the Colorado School of Mines. My research advisor is Dr. Qi Han, 
       the director of the Pervasive Computing Systems (PeCS) research group. My current research interests involves 
-      exploring various machine learning techniques and the possibility of using Augmented Reality (AR) in the context 
-      of networked robot systems. 
+      edge computing and computation collaborations in the context of networked robot systems. 
 
       I enjoy the process of problem solving and building my own systems. I am also a proficient piano player. 
       Currently, I am learning the bass guitar.
@@ -91,6 +90,26 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "Distributed Participant Selection in Networks of Heterogeneous Drones for Federated Learning"
+        link:
+        authors: Wang, C., Han, Q. and Bernklau, A.
+        conference: IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2025
+
+      - title: "GazeboNS3: A Digital Twin System for UAV Swarms"
+        link:
+        authors: Cauwe, D., Wang, C. and Han, Q.
+        conference: ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications (DroNet), 2025
+
+      - title: "LLM for Generating Simulation Inputs to Evaluate Path Planning Algorithms"
+        link: "https://jond07.github.io/Pubs/LLMForGeneratingSimulationInputs.pdf"
+        authors: Wang, C., Diller, J. and Han, Q.
+        conference: IEEE International Conference on Machine Learning and Applications (ICMLA), 2024
+
+      - title: "Sharing the Edge: System Status Aware Object Recognition Task Offloading"
+        link: "https://www.computer.org/csdl/proceedings-article/smartcomp/2024/499400a077/1YQ8kw1CJqw"
+        authors: Wang, C., Eicher, O. and Han, Q.
+        conference: IEEE International Conference on Smart Computing (SMARTCOMP), 2024
+
       - title: "RAREST: Emulation of Augmented Reality Assisted Multi-UAV-UGV Systems"
         link: "https://dl.acm.org/doi/abs/10.1145/3597063.3597361"
         authors: Carlson, B., Wang, C. and Han, Q.
@@ -118,8 +137,10 @@ experiences:
         time: Ongoing
         details: |
           It is my honor to be selected to review submissions for various conferences and journals: 
+            - 2024 Elsevier Ad Hoc Networks Journal
+            - 2024 ACM MobiSys Posters Session 
             - 2023 IEEE PerCom Workshop on Pervasive Computing for Vehicular Systems (PerVehicle)
-            - 2023 ACM IMWUT
+            - 2023 ACM IMWUT Journal
 
       - role: Conference & Workshop Organizing Committee
         time: Ongoing
@@ -128,20 +149,34 @@ experiences:
             - Publicity and Social Media Chair (2024 IEEE PerCom)
             - Web Chair (2023 ACM SenSys/BuildSys Workshop on Data)
 
+      - role: Course Instructor
+        time: Ongoing
+        details: |
+          I have been the instructor for following course at the Colorado School of Mines:
+            - CSCI 128 Computer Science for STEM (Mines)
+
       - role: Teaching Assistant
         time: Ongoing
         details: |
           I have been TAing various Grad and UG level courses throughout my academic journey:
+            - CSCI 341 Computer Organization (Mines)
             - CSCI 575 Advanced Machine Learning (Mines)
             - CSCI 470 Intro to Machine Learning (Mines)
             - ESE 447 Robotics Laboratory (WUSTL)
             - ESE 446 Robotics: Dynamics & Control (WUSTL)
             - PHYS 41 General Physics with Lab (Pomona College)
 
+      - role: College Scholarship Application Reviewer
+        time: Ongoing
+        details: |
+          I have been a reviewer for the UCLA Samueli Engineering Scholarships Applications in 2025. My job is to review scholarship applications and provide feedback to the scholarship committee.
+
       - role: College Admission Interviewer
         time: Ongoing
         details: |
           I have been in the WUSTL Alumni and Parents Admission Program (APAP) since 2022. My job is to interview college applicants every year and submit interview reports to the admission office. 
+          
+      
 
 
 skills:
