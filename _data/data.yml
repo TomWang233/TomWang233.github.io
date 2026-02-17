@@ -90,13 +90,18 @@ education:
 publications:
     title: Publications
     papers:
+      - title: "Coverage-Aware Federated Learning in Multi-Hop Drone Networks via Distributed Participant Selection"
+        link: "https://ieeexplore.ieee.org/document/11392808"
+        authors: Wang, C. and Han, Q. 
+        conference: IEEE Internet of Things Journal, 2026
+
       - title: "Distributed Participant Selection in Networks of Heterogeneous Drones for Federated Learning"
-        link:
+        link: "https://ieeexplore.ieee.org/document/11206300"
         authors: Wang, C., Han, Q. and Bernklau, A.
         conference: IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2025
 
       - title: "GazeboNS3: A Digital Twin System for UAV Swarms"
-        link:
+        link: "https://dl.acm.org/doi/abs/10.1145/3711875.3737659"
         authors: Cauwe, D., Wang, C. and Han, Q.
         conference: ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications (DroNet), 2025
 
@@ -136,7 +141,8 @@ experiences:
       - role: Conference & Journal Reviewer
         time: Ongoing
         details: |
-          It is my honor to be selected to review submissions for various conferences and journals: 
+          It is my honor to be selected to review submissions for various conferences and journals:
+            - 2026 IEEE PerCom Artifact Evaluation
             - 2024 Elsevier Ad Hoc Networks Journal
             - 2024 ACM MobiSys Posters Session 
             - 2023 IEEE PerCom Workshop on Pervasive Computing for Vehicular Systems (PerVehicle)
